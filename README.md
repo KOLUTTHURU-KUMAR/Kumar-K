@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kolutthurukumar
+- 👋 Hi, I’m @Kumar Kolutthuru
 - 👀 I’m interested in developing new things 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on anything that gives me freedom to develop 
